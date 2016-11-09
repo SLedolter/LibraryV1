@@ -1,0 +1,7 @@
+{"categories":[
+	{"id":"1", "titel":"Unterbrechungsfreie Stromversorgungsanlagen","parent":"null","sort":"1"},
+	{"id":"2", "titel":"Blindstrom-Kompensationsanlagen","parent":"null","sort":"3"},
+	{"id":"3", "titel":"Dieselaggregate","parent":"null","sort":"2"},
+	{"id":"4", "titel":"Line interactive","parent":"1","sort":"1"},
+	{"id":"5", "titel":"Line 1-Phasing","parent":"1","sort":"2"}
+]}
